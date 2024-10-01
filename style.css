@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/me-copy.jpg);
+    background-image: url(me-copy.jpg);
     background-size: cover;
     background-position: center;
 }
